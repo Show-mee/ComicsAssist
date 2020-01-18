@@ -1,6 +1,9 @@
 # ComicsAssist
 
-## OverView
+## Demo 
+[video]https://vimeo.com/170738476
+
+## Overview
 
 ComicsAssist is a light Comics book layout manager mainly used for put panels in desired order. When a comic artist starts to create a comic book page. He or she can use ComicsAssist to edit and organise panels with ease. At the same time the artist can also do simple sketches with blue ink which can be easily removed later. ComicsAssist can be also used to add simple drawings or text to the page.
 ComicsAssist offers user friendly interface with clear layout. It also support Gesture and MenuBar shortcuts that allow users to smoothly processing the editing work.
@@ -45,7 +48,6 @@ Open/Save
 ￼￼Storyboard
 ￼Open/Save/ShortCut
 ￼Layer/BlueInk
-￼FINAL REPORT-IS
 ￼￼￼Panels(Group)
 ￼Basic Tools(Text,Rectangle and etc.)
 
@@ -55,7 +57,6 @@ ComicsAssist runs in Java environment. It is developed in eclipse. To run the pr
 ￼￼- Drawing
 - Text
 -  Layer
-  
 - Go to “Panel bar “ and click on to add a new panel to activate the function.
 - Click on canvas to add a panel with preset size or drag to add a panel with desired size.
 - Click on other buttons in “panel bar” to edit panels.
@@ -68,15 +69,14 @@ on to insert the history.
 - Use checkbox to enable the visibility of a layer.
 - Click on BlueRemove to remove the blue ink layer(Layer 2).
 - Undo, redo and clean up the canvas.
-￼￼FINAL REPORT-IS
-￼￼6. File
-￼7. Shortcuts
+￼￼- File
+￼- Shortcuts
 
 - Go to Menu and Click on “File”
 Choose from the submenu to activate an operation
 ￼- Go to gesture panel and follow the instructions to use gesture as shortcut
 ￼- Right click on items or canvas to activate the PieMenu for shortcut
-￼FINAL REPORT-IS
+
 ￼￼ComicsAssist
 Author: Ziqi LIU & Xiuming XU
 12 Dec 2014
